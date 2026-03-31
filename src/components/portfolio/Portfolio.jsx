@@ -15,23 +15,22 @@ const projectData = [
     type:"genai",
     image: card1,
     title: "Fake Review Detector",
-    Tech: "FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis • Railway Deployment",
+    Tech: "FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis ",
     description:"AI-powered system that detects and explains fake product reviews using rule-based detection, RAG architecture, and LLM reasoning.",
     github: "https://github.com/mahajpr/Fake_Review_Detector.git",
-    demo: "https://fakereviewdetector-production-3065.up.railway.app/",
+    video:"public/videos/fake_review_detector.mp4",
+    isVideo:true,
   },
   {
   id: 2,
   type:"genai",
   image: card2,
-  title: "College Event Register System",
-  Tech: "FastAPI • Streamlit • SQLite • REST API • Role-based Login • Railway Deployment",
+  title: "Smart Event Management System with AI Assistant",
+  Tech: "FastAPI • Streamlit • SQLite • REST API • Role-based Login ",
   description:"Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.",
   github: "https://github.com/mahajpr/College_Event_Register_System.git",
-  demos: {
-    Student: "https://collegeeventregistersystem-production-79f4.up.railway.app",
-    Admin: "https://collegeeventregistersystem-production-fb1c.up.railway.app"
-  }
+  video:"public/videos/college_event_registration_video.mp4",
+  isVideo:true,
 },
 
   {
