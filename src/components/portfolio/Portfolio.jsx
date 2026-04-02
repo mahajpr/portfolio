@@ -18,7 +18,7 @@ const projectData = [
     Tech: "FastAPI • Streamlit • LLM APIs • RAG • NLP • Text Analysis ",
     description:"AI-powered system that detects and explains fake product reviews using rule-based detection, RAG architecture, and LLM reasoning.",
     github: "https://github.com/mahajpr/Fake_Review_Detector.git",
-    video:"/videos/fake_review_detector.mp4",
+    video:"/videos/fake_review_detection.mp4",
     isVideo:true,
   },
   {
@@ -29,7 +29,7 @@ const projectData = [
   Tech: "FastAPI • Streamlit • SQLite • REST API • Role-based Login ",
   description:"Role-based event management platform with separate student and admin portals, built using FastAPI and deployed backend services.",
   github: "https://github.com/mahajpr/College_Event_Register_System.git",
-  video:"/videos/college_event_registration_video.mp4",
+  video:"/videos/college_event_registrartion_video.mp4",
   isVideo:true,
 },
 
