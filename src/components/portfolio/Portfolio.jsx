@@ -41,7 +41,7 @@ const projectData = [
     Tech: "FastAPI • Streamlit • NLP • LLM APIs • PDF Processing • REST API",
     description:"AI-powered Resume Matcher that analyzes resumes against job descriptions using NLP and LLM techniques. Provides match scores, skill alignment, and improvement suggestions in real-time.",
     github:"https://github.com/mahajpr/AI-Projects.git",
-    video:"/videos/resume_demo.mp4",
+    video:"/videos/AI_resume_matcher.mp4",
     isVideo:true,
 },
   // {

@@ -24,7 +24,7 @@ const Footer = () => {
               Maha Vigneshwari
             </p>
             <p className="text-xs sm:text-sm text-gray-300">
-              Generative AI Developer | FastAPI | LLM Applications
+              Generative AI Developer 
             </p>
           </div>
         </div>
@@ -45,7 +45,7 @@ const Footer = () => {
 
         {/* RIGHT SIDE */}
         <div className="text-center sm:text-right text-[12px] sm:text-[16px]">
-          <p>© {copyrightYear} Maha Vigneshwari</p>
+          <p>© {copyrightYear} Picto</p>
           <div className="mt-2 space-x-3">
             <a
               href="https://github.com/mahajpr/Projects.git"
